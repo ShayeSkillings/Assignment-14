@@ -6,7 +6,7 @@ function drawWelcomeText() {
   ctx.fillStyle = 'lightgray';
   ctx.fillRect(50, 50, 300, 100);
 
-  ctx.fillStyle = 'black';
+  ctx.fillStyle = 'darkgreen';
   ctx.font = '30px Arial';
   ctx.fillText('Eddystone', 100, 90);
   ctx.fillText('Rock & Ready Mix', 70, 130);
